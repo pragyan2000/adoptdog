@@ -1,0 +1,105 @@
+#title{
+	background-color: #ff4c68;
+}
+h1{
+	color:white;
+	font-size:3.5rem;
+	line-height:1.5;
+	font-family: 'Montserrat-black', sans-serif;
+
+}
+h3{
+	font-size:2rem;
+	font-family: 'Nerko One', cursive;
+	text-align: center;
+}
+p{
+	color:#8f8f8f;
+}
+.container-fluid{
+
+	padding:3% 15%;
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand{
+	font-size:2rem;
+}
+.image-dog{
+}
+#features{
+	padding :7% 15%; 
+
+}
+.features1{
+	padding:5%;
+	text-align:center; 
+
+}
+.icon{
+	color:#ff4682;
+}
+.icon:hover{
+	color:#ff4c68;
+}
+.new{
+	text-align: :center;
+}
+#middle{
+	background-color: #ff4c68;
+}
+.middle1{
+	text-align: center;
+	color:white;
+	font-family: 'Lobster', cursive;
+}
+.dog{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
+.d{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%; 
+}
+.dog{
+	width : 300px;
+	padding :7% 15%;
+	border-radius: 100%;
+}
+#demo{
+	height :500px;
+}
+.slide{
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  width: 50%;
+  padding-top: 3%; 
+}
+#footer{
+background-color: #ff4c68;
+text-align:center;
+padding: 7% 15%;
+font-size:5rem;
+}
+#foot{
+	text-align: center;
+}
+.logo{
+	color:#ff4c68;
+	margin: 20px 20px;
+}
+.logo:hover{
+	color: #ff4682;
+}
+@media (max-width: 1028px){
+	#title{
+		text-align: center;
+	}
+
+}
