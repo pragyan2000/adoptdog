@@ -99,12 +99,13 @@ font-size:5rem;
 }
 @media (max-width: 1028px){
 	#title{
-		text-align: center;
+	 	text-align: center;
 	}
+}
+@media(max-width:1028px){
 	.dog{
 		width : 1000px;
 	padding :7% 15%;
 	border-radius: 100%;
 	}
-
 }
