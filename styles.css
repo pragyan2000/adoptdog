@@ -101,5 +101,10 @@ font-size:5rem;
 	#title{
 		text-align: center;
 	}
+	.dog{
+		width : 1000px;
+	padding :7% 15%;
+	border-radius: 100%;
+	}
 
 }
